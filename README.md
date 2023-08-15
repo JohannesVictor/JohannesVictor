@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JohannesVictor
+- 👋 Hi, I’m @Jonas Bard
 - 👀 I’m interested in CS
 - 🌱 I’m currently learning Ruby 
 
